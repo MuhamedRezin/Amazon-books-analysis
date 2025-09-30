@@ -36,7 +36,7 @@ The dataset was sourced from Kaggle and analyzed using Python (Pandas, Matplotli
 ---
 
 ## 📸 Sample Visualizations
-| Top Authors by Number of Bestsellers | Rating Distribution |
+| Top Authors by Number of Bestsellers | Genre Ratings|
 |--------------------------------------|----------------------|
 | ![Top Authors](outputs/top_authors.png) | ![Genre ratings](outputs/avg_rating_genre.png) |
 
@@ -53,5 +53,6 @@ The dataset was sourced from Kaggle and analyzed using Python (Pandas, Matplotli
 This project was part of my learning journey in Python and Data Analysis. It represents one of my first data-driven projects published publicly.  
 
 ---
+
 
 
